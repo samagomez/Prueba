@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="Usr" value="admin@gmail.com"/>
+  <parameter name="pass" value="AbCd1234"/>
+  <parameter name="URL" value="http://45.55.132.142:3000/login"/>
+  <test thread-count="5" name="Test on chrome(failed)">
+    <parameter name="BrowserType" value="Chrome"/>
+    <classes>
+      <class name="TestCliente.Test3">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="eliminacionpt2"/>
+          <include name="afterTest"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- TestCliente.Test3 -->
+    </classes>
+  </test> <!-- Test on chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->
