@@ -65,7 +65,7 @@ public class Test1 {
 		}
 
 		System.out.println("El "+result.getMethod().getDescription()+" fue ejecutado "+status);
-		System.out.println("Test Case Finalizado..");
+		System.out.println("Test Case Finalizado....");
 
 	}
 
