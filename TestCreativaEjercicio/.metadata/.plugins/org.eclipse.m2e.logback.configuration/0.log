@@ -1,0 +1,11 @@
+2021-07-21 16:47:00,372 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.testcreativa.ejercicio:TestCreativaEjercicio:0.0.1-SNAPSHOT @ C:\Users\SALVADOR\workspace\TestCreativaEjercicio\pom.xml.
+2021-07-21 16:47:00,372 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.testcreativa.ejercicio:TestCreativaEjercicio:0.0.1-SNAPSHOT @ C:\Users\SALVADOR\workspace\TestCreativaEjercicio\pom.xml.
+2021-07-21 16:47:03,352 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-21 16:47:03,365 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-21 16:47:04,645 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.testcreativa.ejercicio:TestCreativaEjercicio:0.0.1-SNAPSHOT @ C:\Users\SALVADOR\workspace\TestCreativaEjercicio\pom.xml.
+2021-07-21 16:47:04,648 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-21 16:47:04,651 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-07-21 16:47:07,970 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-21 16:47:07,996 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-21 16:47:08,000 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-21 16:47:08,004 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
