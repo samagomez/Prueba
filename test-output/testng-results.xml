@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83498" started-at="2022-08-12T17:15:02Z" finished-at="2022-08-12T17:16:26Z">
+    <groups>
+    </groups>
+    <test name="Test On Chrome" duration-ms="83498" started-at="2022-08-12T17:15:02Z" finished-at="2022-08-12T17:16:26Z">
+      <class name="WebLocal">
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext, java.lang.String)[pri:0, instance:WebLocal@1c79255]" name="beforeTest" is-config="true" duration-ms="9219" started-at="2022-08-12T17:15:02Z" finished-at="2022-08-12T17:15:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f85555]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="GuatemalaPreApproved()[pri:1, instance:WebLocal@1c79255]" name="GuatemalaPreApproved" duration-ms="8650" started-at="2022-08-12T17:15:11Z" finished-at="2022-08-12T17:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GuatemalaPreApproved -->
+        <test-method status="PASS" signature="onboardingTest()[pri:2, instance:WebLocal@1c79255]" name="onboardingTest" duration-ms="17581" started-at="2022-08-12T17:15:20Z" finished-at="2022-08-12T17:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onboardingTest -->
+        <test-method status="PASS" signature="productsTest()[pri:3, instance:WebLocal@1c79255]" name="productsTest" duration-ms="7205" started-at="2022-08-12T17:15:38Z" finished-at="2022-08-12T17:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productsTest -->
+        <test-method status="PASS" signature="nameCardTest()[pri:4, instance:WebLocal@1c79255]" name="nameCardTest" duration-ms="14537" started-at="2022-08-12T17:15:45Z" finished-at="2022-08-12T17:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameCardTest -->
+        <test-method status="PASS" signature="agreementTest()[pri:5, instance:WebLocal@1c79255]" name="agreementTest" duration-ms="1715" started-at="2022-08-12T17:15:59Z" finished-at="2022-08-12T17:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agreementTest -->
+        <test-method status="PASS" signature="addressTest()[pri:6, instance:WebLocal@1c79255]" name="addressTest" duration-ms="11464" started-at="2022-08-12T17:16:01Z" finished-at="2022-08-12T17:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressTest -->
+        <test-method status="PASS" signature="CongratsTest()[pri:7, instance:WebLocal@1c79255]" name="CongratsTest" duration-ms="11388" started-at="2022-08-12T17:16:13Z" finished-at="2022-08-12T17:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CongratsTest -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:WebLocal@1c79255]" name="afterTest" is-config="true" duration-ms="1668" started-at="2022-08-12T17:16:24Z" finished-at="2022-08-12T17:16:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@f85555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- WebLocal -->
+    </test> <!-- Test On Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
