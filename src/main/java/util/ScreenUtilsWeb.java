@@ -25,7 +25,7 @@ public interface ScreenUtilsWeb {
 	@SuppressWarnings("unchecked")
 	static String getTokenGT(String BaseUriUrl, String CodAgencia, String Channel, String Username, String View,
 			String Application, String UsernameBa, String PasswordBa, String GetToken, String SuscriptionID) {
-
+//when tu traes las cosas de master
 		String gtToken = "";
 		try {
 			RestAssured.baseURI = BaseUriUrl;
