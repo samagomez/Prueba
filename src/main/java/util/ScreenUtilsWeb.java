@@ -44,7 +44,8 @@ public interface ScreenUtilsWeb {
 			Assert.assertEquals(response.getStatusCode(), 200);
 			JsonPath jsonPathEvaluator = response.jsonPath();
 			gtToken = jsonPathEvaluator.get("token");
-			//rama master  
+			//rama master  me traje estos cambios de master a guatemala
+			//ademas lo hice super bien 
 		}
 
 		catch (Exception e) {
