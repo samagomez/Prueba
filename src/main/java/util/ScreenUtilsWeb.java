@@ -44,7 +44,7 @@ public interface ScreenUtilsWeb {
 			Assert.assertEquals(response.getStatusCode(), 200);
 			JsonPath jsonPathEvaluator = response.jsonPath();
 			gtToken = jsonPathEvaluator.get("token");
-			//rama master
+			//rama master  
 		}
 
 		catch (Exception e) {
@@ -52,5 +52,5 @@ public interface ScreenUtilsWeb {
 		}
 		return gtToken;
 	}
-//mis cambios
+
 }
