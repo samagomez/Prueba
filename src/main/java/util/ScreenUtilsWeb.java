@@ -52,5 +52,5 @@ public interface ScreenUtilsWeb {
 		}
 		return gtToken;
 	}
-
+//mis cambios
 }
