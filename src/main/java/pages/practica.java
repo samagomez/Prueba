@@ -5,4 +5,6 @@ public class practica {
 	//buenos dias
 	// a ver que ondas mi amiguix
 
+	
+	//cuando no se sabe que hacer
 }
