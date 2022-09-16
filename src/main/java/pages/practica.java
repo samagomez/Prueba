@@ -8,3 +8,6 @@ public class practica { //aqui estoy
 	//subiendo cambios aqui 
 	//cuando no se sabe que hacer
 }//valores 
+
+
+//local
