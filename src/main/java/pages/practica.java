@@ -15,3 +15,7 @@ public class practica { //aqui estoy
 //macdonald
 //PADRE RICO
 //PADRE POBRE
+// CAMBIOS 
+
+
+// MIS NUEVOS NUEVOS
