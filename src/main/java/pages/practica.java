@@ -10,7 +10,7 @@ public class practica { //aqui estoy
 	//cuando no se sabe que hacer
 }//valores 
 
-
+//BENDECIDO
 //local
 //macdonald
 //PADRE RICO
