@@ -1,6 +1,6 @@
 package pages;
 
-public class practica {
+public class practica { //aqui estoy
 	
 	//buenos dias
 	// a ver que ondas mi amiguix
