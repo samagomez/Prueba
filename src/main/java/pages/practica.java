@@ -4,6 +4,9 @@ public class practica { //aqui estoy
 	
 	//agregar nuevos comentarios 
 }
-blame
+//blame
+
+//dirty pop 
+//nsinc
 
 
