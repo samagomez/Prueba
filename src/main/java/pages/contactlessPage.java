@@ -15,4 +15,4 @@ public class contactlessPage {
 	public static WebElement continueBtn() {
 		return $(By.id("btnStroked1655392483727"));
 	}
-}
+}//jump jump 
