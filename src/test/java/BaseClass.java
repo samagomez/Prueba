@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import com.codeborne.selenide.WebDriverRunner;
 
-
+//base class
 public class BaseClass {
 	
 	public static String BaseUriUrl = "", GetToken = "", CodAgencia = "", Channel = "", Username = "",
